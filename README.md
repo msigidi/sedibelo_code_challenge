@@ -1,6 +1,4 @@
-Fullstack Developer Assessment
 This project demonstrates secure user data handling and reporting through a console-based application, along with a full-stack web application using Node.js and Quasar for user data management, real-time updates, and reporting. The solution covers encryption, NoSQL database integration, scalable data processing, and optimized frontend/backend architecture.
-
 Features
 1. Console-Based Application (Node.js)
     Simulate Secure Login Form Submission: Users can securely submit login information.
